@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on A react web app
+- 🌱 I’m currently learning java and react
+- 📫 How to reach me: sekamattesoul@gmail.com
+- ⚡ Fun fact: I love cooking and i specialise in baking cakes. 👨‍🍳
+
 <!--
 **SoulSolomon21/soulSolomon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
