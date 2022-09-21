@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on A react web app
+- 🔭 I’m currently working on A react web app for meal planning
 - 🌱 I’m currently learning java and react
 - 📫 How to reach me: sekamattesoul@gmail.com
 - ⚡ Fun fact: I love cooking and i specialise in baking cakes. 👨‍🍳
