@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm a computer science student with a passion for web development. I also do robotics and coding in java.   
+I'm a computer science student with a passion for web development using JavaScript and TypeScript. I lean more towards backend web development.
   
 
 ![Developer](https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif)  
@@ -27,14 +27,13 @@ I'm a computer science student with a passion for web development. I also do rob
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a [React Meal App](https://github.com/SoulSolomon21/meals-app)  
+- 👨‍💻 I'm currently an Engineering intern at [Waape](https://waape.ug/)  
   
 
-- 🌱 I’m currently learning React, Java and Python.
-I'm also learning UX Design.   
+- 🌱 I’m currently learning Frontend web development with NextJs and backend web development using NestJs.  
   
 
-- ⚡ Fun fact: My favorite hobby is cooking and baking cakes  
+- ⚡ Fun fact: My favorite hobby is cooking and baking cakes. 
   
 
 - 👨‍💻 I'm a quick learner and have a passion for learning new skills.  
