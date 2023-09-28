@@ -27,7 +27,7 @@ I'm a computer science student with a passion for web development using JavaScri
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👨‍💻 I'm currently an Engineering intern at [Waape](https://waape.ug/)  
+- 👨‍💻 I'm currently a Software Engineer at [Waape](https://waape.ug/)  
   
 
 - 🌱 I’m currently learning Frontend web development with NextJs and backend web development using NestJs.  
