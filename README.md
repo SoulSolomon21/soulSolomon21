@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm a computer science student with a passion for web development using JavaScript and TypeScript. I lean more towards backend web development.
+I'm a software developer with a passion for web development using JavaScript and TypeScript. I lean more towards backend web development.
   
 
 ![Developer](https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif)  
@@ -27,10 +27,10 @@ I'm a computer science student with a passion for web development using JavaScri
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👨‍💻 I'm currently a Software Engineer at [Waape](https://waape.ug/)  
+- 👨‍💻 I'm currently a Software Engineer Intern at [Uganda Christian University](https://ucu.ac.ug/)  
   
 
-- 🌱 I’m currently learning Frontend web development with NextJs and backend web development using NestJs.  
+- 🌱 I’m currently learning Domain Driven Design.  
   
 
 - ⚡ Fun fact: My favorite hobby is cooking and baking cakes. 
