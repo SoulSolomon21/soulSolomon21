@@ -27,7 +27,7 @@ I'm a software developer with a passion for web development using JavaScript and
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👨‍💻 I'm currently a Software Engineer Intern at [Uganda Christian University](https://ucu.ac.ug/)  
+- 👨‍💻 I'm currently a Software Developer at [Uganda Christian University](https://ucu.ac.ug/)  
   
 
 - 🌱 I’m currently learning Domain Driven Design.  
